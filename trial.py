@@ -2,6 +2,11 @@
 # this version records the cam input from the webcam and creates a high
 # frequency search of edge detection
 
+# A reference to the code that was decomposed was edge.py
+
+# The changes made were to solely link the computers camera
+# to the camera being read
+
 
 import cv2 as cv
 import numpy as np
