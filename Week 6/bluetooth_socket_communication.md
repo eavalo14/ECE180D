@@ -1,6 +1,7 @@
 Steps to get both devices paired and connected:
 
 1: Pair Raspberry Pi's
+	
 	- in order to pair the devices go ahead and follow the steps in the link below
 	Note: to recall in the last lab section that we tried to connect bluetooth, 
 	I had problems with bluetoothctl. To fix this issue I installed the newest 
