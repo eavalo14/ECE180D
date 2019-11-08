@@ -20,12 +20,12 @@ Steps to get both devices paired and connected:
 	-On servers command prompt run hciconfig and record MAC address
 	-Copy MAC address and replace with the one in rfcomm-client.py
 
-3. Install Bluetooth libraries for python development
+3: Install Bluetooth libraries for python development
 
-	sudo apt-get install bluetooth libbluetooth-dev
-	sudo pip install pybluez
+	-sudo apt-get install bluetooth libbluetooth-dev
+	-sudo pip install pybluez
 
-4:Run scripts in order
+4: Run scripts in order
 
 	1. Server: python rfcomm-server.py
 	2. Client: python rfcomm-client.py
